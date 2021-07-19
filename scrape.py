@@ -13,7 +13,7 @@ coloredlogs.install(
     fmt='%(asctime)s [%(programname)s] %(levelname)s %(message)s')
 
 
-# define rotating proxies
+# ---------------------define rotating proxies----------------Picing on proxies needed!
 PROXIES = {
     'http': 'http://lum-customer-hl_233xze5-zone-static:g32kc5833f20t@zproxy.lum-superproxy.io:22225',
     'https': 'http://lum-customer-hl_233xze5-zone-static:g32kc5833f20t@zproxy.lum-superproxy.io:22225',
